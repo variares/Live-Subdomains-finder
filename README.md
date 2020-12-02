@@ -4,7 +4,7 @@ Please make sure you have 'assetfinder' and 'httprobe' installed in your pc.
 
 # Installation
 $ git clone https://github.com/variares/Live-Subdomains-finder.git  
-$ cd Live-Subdomains-finder
+$ cd Live-Subdomains-finder  
 $ chmod 755 live_sub.sh
 
 # Usage
