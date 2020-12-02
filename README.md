@@ -3,7 +3,7 @@ This tool is used to find live subdomains of a domain with the help of 'assetfin
 Please make sure you have 'assetfinder' and 'httprobe' installed in your pc. 
 
 # Installation
-$ git clone https://github.com/variares/Live-Subdomains-finder.git
+$ git clone https://github.com/variares/Live-Subdomains-finder.git  
 $ cd Live-Subdomains-finder
 
 # Usage
